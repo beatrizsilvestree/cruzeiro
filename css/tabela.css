@@ -1,0 +1,40 @@
+/* Tabela Page */
+.table {
+    margin-top: 20px;
+}
+
+.table th {
+    background-color: #2369ff;
+    color: #fff;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.table tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+.table tbody tr:hover {
+    background-color: #5d8ffa;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-width: 0.1cap;
+    border-width: 2px;
+    border-style: dotted;
+    padding: 0.3%;
+    color: white;
+}
+
+body{
+    background-color: #06048a;
+    
+}
+
+img{
+    text-align:center;
+}

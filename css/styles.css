@@ -1,0 +1,59 @@
+/* Estilo Geral */
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #06048a;
+    background-image: url(/img/space-4984262_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw, 100vh;
+}
+
+h6{
+    color: white;
+}
+
+
+
+/* Carrossel */
+.carousel-item img {
+    object-fit: cover;
+    height: 400px; 
+}
+
+/* Cards */
+.card {
+    margin-bottom: 20px;
+}
+
+h5{
+    color: black;
+}
+
+p{
+    color: black;
+}
+
+/* Formulário */
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Tabela */
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.table thead {
+    background-color: #002287;
+    background-color: #002287;
+   
+}
+
+div{
+    text-align: center;
+}

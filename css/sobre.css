@@ -1,0 +1,44 @@
+/* Sobre Page */
+main.container {
+    padding: 20px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+h2 {
+    margin-top: 20px;
+    color: #343a40;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+p{
+    border-style:ridge;
+    border-color: #5d8ffa;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+h1{
+    color: white;
+    border-style:dotted ;
+    border-color: rgb(159, 176, 252);
+}
+
+h2{
+    color: white;
+    border-style:dotted ;
+    border-color: rgb(159, 176, 252);
+}
+
+body{
+    background-color: #06048a;
+   
+}
